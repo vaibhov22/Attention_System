@@ -1,3 +1,8 @@
+# Generated files
+attention_plot.png
+attention_session.csv
+static/attention_plot.png
+static/session_data.csv
 # Python cache
 __pycache__/
 *.py[cod]
