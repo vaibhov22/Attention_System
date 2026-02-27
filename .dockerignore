@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+static/session_data.csv
+static/attention_plot.png
