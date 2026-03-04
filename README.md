@@ -281,4 +281,32 @@ This project is built for educational and research purposes.
 
 ---
 
+## Run Locally
 
+Clone the repository
+
+git clone https://github.com/YOUR_USERNAME/attention-monitoring-system.git
+
+Go into the project folder
+
+cd attention-monitoring-system
+
+Create virtual environment
+
+python -m venv venv
+
+Activate environment
+
+Windows:
+venv\Scripts\activate
+
+Mac/Linux:
+source venv/bin/activate
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run the application
+
+python Attention_mechanishm/app.py
