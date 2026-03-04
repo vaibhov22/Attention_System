@@ -285,11 +285,11 @@ This project is built for educational and research purposes.
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/attention-monitoring-system.git
+git clone https://github.com/vaibhov22/Attention_System.git
 
 Go into the project folder
 
-cd attention-monitoring-system
+cd Attention_System
 
 Create virtual environment
 
